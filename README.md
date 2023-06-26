@@ -22,7 +22,9 @@ create a folder name for the storage of the images
 
 image saved
 
-![image](https://github.com/Alex-Unnippillil/imagedownloader/assets/24538548/07abfcef-93ef-4570-9963-43acc451232d)
+![image](https://github.com/Alex-Unnippillil/imagedownloader/assets/24538548/38fcaa94-d1bc-4d30-a625-793e41092c3a)
+
+
 ![image](https://github.com/Alex-Unnippillil/imagedownloader/assets/24538548/252199d4-4d2d-4273-ad12-a34bf813db5f)
 
 
