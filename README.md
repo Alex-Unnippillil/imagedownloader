@@ -4,8 +4,7 @@ download the images from a static website
 
  1. run python script
 
-![image](https://github.com/Alex-Unnippillil/imagedownloader/assets/24538548/7581f174-8ead-499f-a4e3-ad2ccb5f2f96)
-
+![image](https://github.com/Alex-Unnippillil/imagedownloader/assets/24538548/a25ad136-c6d3-4b49-bc45-8aad678631b4)
 
 
 2. paste url of the website
